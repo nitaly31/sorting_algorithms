@@ -99,7 +99,7 @@ typedef struct listint_s
 #### Header File
 | Files | Description |
 | --- | --- |
-| [sort.h]() | Header file with all the prototypes that the project contains. This file is guarded. |
+| [sort.h](https://github.com/nitaly31/sorting_algorithms/blob/main/sort.h) | Header file with all the prototypes that the project contains. This file is guarded. |
 
 
 #### *Mandatory:*
@@ -107,18 +107,18 @@ typedef struct listint_s
 #### Sorting Algorithms
 | Files | Description |
 | --- | --- |
-| [0-bubble_sort.c]() | Function that sorts an array of integers in ascending order using the Bubble sort algorithm. |
+| [0-bubble_sort.c](https://github.com/nitaly31/sorting_algorithms/blob/main/0-bubble_sort.c) | Function that sorts an array of integers in ascending order using the Bubble sort algorithm. |
 | [1-insertion_sort_list.c]() | Function that sorts a doubly linked list of integers in ascending order using the Insertion sort algorithm. |
-| [2-selection_sort.c]() | Function that sorts an array of integers in ascending order using the Selection sort algorithm. |
-| [3-quick_sort.c]() | Function that sorts an array of integers in ascending order using the Quick sort algorithm. |
+| [2-selection_sort.c](https://github.com/nitaly31/sorting_algorithms/blob/main/2-selection_sort.c) | Function that sorts an array of integers in ascending order using the Selection sort algorithm. |
+| [3-quick_sort.c](https://github.com/nitaly31/sorting_algorithms/blob/main/3-quick_sort.c) | Function that sorts an array of integers in ascending order using the Quick sort algorithm. |
 
 #### The Big-O Notations
 | Files | Description |
 | --- | --- |
-| [0-O]() | The time complexity of the Bubble sort algorithm, with 1 notation per line: `in the best case`, `in the average case`, `in the worst case`. |
-| [1-O]() | The time complexity of the Insertion sort algorithm, with 1 notation per line: `in the best case`, `in the average case`, `in the worst case`. |
-| [2-O]() | The time complexity of the Selection sort algorithm, with 1 notation per line: `in the best case`, `in the average case`, `in the worst case`. |
-| [3-O]() | The time complexity of the Quick sort algorithm, with 1 notation per line: `in the best case`, `in the average case`, `in the worst case`. |
+| [0-O](https://github.com/nitaly31/sorting_algorithms/blob/main/0-O) | The time complexity of the Bubble sort algorithm, with 1 notation per line: `in the best case`, `in the average case`, `in the worst case`. |
+| [1-O](https://github.com/nitaly31/sorting_algorithms/blob/main/1-O) | The time complexity of the Insertion sort algorithm, with 1 notation per line: `in the best case`, `in the average case`, `in the worst case`. |
+| [2-O](https://github.com/nitaly31/sorting_algorithms/blob/main/2-O) | The time complexity of the Selection sort algorithm, with 1 notation per line: `in the best case`, `in the average case`, `in the worst case`. |
+| [3-O](https://github.com/nitaly31/sorting_algorithms/blob/main/3-O) | The time complexity of the Quick sort algorithm, with 1 notation per line: `in the best case`, `in the average case`, `in the worst case`. |
 
 ### :black_nib: Autor
 ***
